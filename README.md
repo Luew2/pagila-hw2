@@ -1,5 +1,5 @@
 # pagila-hw2
-[![tests](https://github.com/Luew2/pagila-hw2/actions/workflows/tests.yml/badge.svg)](https://github.com/Luew2/pagila-hw2/actions/workflows/tests.yml)
+[!][tests](https://github.com/Luew2/pagila-hw2/actions/workflows/tests.yml/badge.svg)](https://github.com/Luew2/pagila-hw2/actions/workflows/tests.yml)
 
 ## Tasks
 
