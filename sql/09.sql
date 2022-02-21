@@ -4,3 +4,10 @@
  * HINT:
  * Use `unnest(special_features)` in a subquery.
  */
+select special_features, count(film_id)
+from (
+    select unnest(special_features) as special_features, film_id
+    from film
+) t
+group by special_features
+order by special_features;
